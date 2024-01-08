@@ -1,4 +1,4 @@
-<img align="left" alt="City" width="400" src="https://gifdb.com/images/high/cyberpunk-pixel-city-neon-2bagugxcfp2to7tx.gif">
+![Cyberpunk Pixel City Neon](https://gifdb.com/images/high/cyberpunk-pixel-city-neon-2bagugxcfp2to7tx.gif)
 
 # 🐈 Highwire Cat
 **`Cyber Security | Data Protection | Privacy Advocate`**
