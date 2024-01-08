@@ -1,7 +1,7 @@
 # 🐈 Highwire Cat
 **`Cyber Security | Data Protection | Privacy Advocate`**
 
-<iframe src="https://gifdb.com/gif/cyberpunk-pixel-city-neon-2bagugxcfp2to7tx.html?embed=true" width="500" height="300"></iframe>
+![1611497464_c53f60a4b9b160ffa3e79fbcbfb4e2a4](https://github.com/HighwireCat/Bio/assets/144182734/7f5ffa40-d428-4c14-a9ab-410ba5543d9c)
 
 
 I am a [highly motivated](https://www.youtube.com/watch?v=Jrg9KxGNeJY) Computer Science graduate with a concentration in Cybersecurity. I am passionate about leveraging my knowledge and skills in Cybersecurity to contribute to the protection of digital assets and information. Open to opportunities that allow me to learn and grow within the dynamic and ever-evolving field of Information Technology.
